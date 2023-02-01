@@ -10,10 +10,10 @@ public class Test {
     // Gurkay Alanı Başlangıc
         System.out.println(1);
         System.out.println(2);
-
+        
     /*
     Gurkay Alanı Bitiş
-    Ramazan Alanı Başlangıc
+    Ramazan Alanı Başlangıc 17. satır
     */
 
         System.out.println(3);
@@ -34,4 +34,6 @@ public class Test {
         System.out.println(8);
 
     }
+
+    // Satır-4444
 }
