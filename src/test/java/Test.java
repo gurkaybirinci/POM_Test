@@ -10,7 +10,11 @@ public class Test {
     // Gurkay Alanı Başlangıc
         System.out.println(1);
         System.out.println(2);
+
         System.out.println(3);
+
+ü
+        
 
     /*
     Gurkay Alanı Bitiş
@@ -37,5 +41,9 @@ public class Test {
 
     }
 
+<<<<<<< HEAD
 
+=======
+    // Satır-4444
+>>>>>>> 599f9409dfaec23a77665ad24d694e1c2496ea21
 }
